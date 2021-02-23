@@ -1,0 +1,20 @@
+{
+  "name": "node_massive_test",
+  "version": "1.0.0",
+  "description": "function for working with arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichibirkov/sf-Artefakt-hw1.git"
+  },
+  "author": "ivan.chibirkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichibirkov/sf-Artefakt-hw1/issues"
+  },
+  "homepage": "https://github.com/ichibirkov/sf-Artefakt-hw1#readme"
+}
